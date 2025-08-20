@@ -26,6 +26,8 @@
 &kp LSHFT  &kp Z  &kp X  &kp C       &kp V      &kp B      &kp N    &kp M          &kp COMMA  &kp DOT  &kp FSLH  &kp ESC
                          &kp ESCAPE  &kp SPACE  &kp TAB    &kp RET  &kp BACKSPACE  &kp DEL
             >;
+
+            label = "meomeo";
         };
 
         lower_layer {
